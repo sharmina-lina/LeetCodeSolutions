@@ -1,0 +1,14 @@
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/bin/Debug/net8.0/C#Solutions
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/bin/Debug/net8.0/C#Solutions.deps.json
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/bin/Debug/net8.0/C#Solutions.runtimeconfig.json
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/bin/Debug/net8.0/C#Solutions.dll
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/bin/Debug/net8.0/C#Solutions.pdb
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.AssemblyInfoInputs.cache
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.AssemblyInfo.cs
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.csproj.CoreCompileInputs.cache
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.dll
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/refint/C#Solutions.dll
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.pdb
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.genruntimeconfig.cache
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/ref/C#Solutions.dll
