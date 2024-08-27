@@ -7,15 +7,15 @@ namespace AllProblems
     {
         public static void Solve()
         {
-            Console.WriteLine("Solution to Problem 1");
-            // Add the problem 1 logic here
-            Console.WriteLine("Enter a string to find the length of the longest substring without repeating characters:");
+            Console.WriteLine("Solution to Problem 3");
+            // Add the problem 3 logic here
+            Console.WriteLine("Enter a string to find the largest palindrome substring:");
             string s = Console.ReadLine();
-            int result = LengthOfLongestSubstring(s);
+            int result = LongestPalindrome(s);
             Console.WriteLine(result);
         }
 
-        public static int LengthOfLongestSubstring(string s) {
+        public static int LongestPalindrome(string s) {
             HashSet<char> substrings = new HashSet<char>();
 
             int start = 0;

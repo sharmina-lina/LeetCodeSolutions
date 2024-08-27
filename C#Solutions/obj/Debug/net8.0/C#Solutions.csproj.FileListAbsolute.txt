@@ -12,3 +12,4 @@
 /Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.pdb
 /Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.genruntimeconfig.cache
 /Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/ref/C#Solutions.dll
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.sourcelink.json
