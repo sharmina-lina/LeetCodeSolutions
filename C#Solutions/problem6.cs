@@ -12,7 +12,7 @@ namespace AllProblems
             Console.WriteLine("Enter a Int number of rows:");
             int numRows = int.Parse(Console.ReadLine());
             string result = zigzagString(s,numRows);
-            Console.WriteLine("Longest Palindromic Substring: " + result);
+            Console.WriteLine("Zigzag String of given string: " + result);
         }
 
         
