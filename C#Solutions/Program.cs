@@ -15,6 +15,8 @@ namespace AllProblems
             Console.WriteLine("5: Problem 5");
             Console.WriteLine("6: Problem 6");
             Console.WriteLine("7: Problem 7");
+            Console.WriteLine("8: Problem 8");
+            Console.WriteLine("9: Problem 9");
             Console.WriteLine("16: Problem 16");
             Console.WriteLine("17: Problem 17");
             Console.Write("Enter your choice: ");
@@ -43,6 +45,12 @@ namespace AllProblems
                     break;
                 case "7":
                     Problem7.Solve();
+                    break;
+                case "8":
+                    Problem8.Solve();
+                    break;
+                case "9":
+                    Problem9.Solve();
                     break;
                 case "16":
                     Problem16.Solve();
