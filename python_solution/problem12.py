@@ -88,7 +88,7 @@ def main():
     num = int(input("Enter the number convert to Roman : "))
    
 
-    # Find the maximum area of container with most water
+    # Find the Roman Number of Integer
     solution_prob12 = Problem12()
     romanNumber = solution_prob12.integerToRoman(num)
 
