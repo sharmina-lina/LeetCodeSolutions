@@ -20,9 +20,12 @@ namespace AllProblems
             Console.WriteLine("10: Problem 10");
             Console.WriteLine("11: Problem 11");
             Console.WriteLine("12: Problem 12");
-            Console.WriteLine("12: Problem 13");
+            Console.WriteLine("13: Problem 13");
+            Console.WriteLine("14: Problem 14");
+            Console.WriteLine("15: Problem 15");
             Console.WriteLine("16: Problem 16");
             Console.WriteLine("17: Problem 17");
+            Console.WriteLine("18: Problem 18");
             Console.Write("Enter your choice: ");
             
             string choice = Console.ReadLine();
@@ -68,11 +71,20 @@ namespace AllProblems
                 case "13":
                     Problem13.Solve();
                     break;
+                case "14":
+                    Problem14.Solve();
+                    break;
+                case "15":
+                    Problem15.Solve();
+                    break;
                 case "16":
                     Problem16.Solve();
                     break;
                 case "17":
                     Problem17.Solve();
+                    break;
+                case "18":
+                    Problem18.Solve();
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");
