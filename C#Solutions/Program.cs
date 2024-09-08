@@ -26,6 +26,7 @@ namespace AllProblems
             Console.WriteLine("16: Problem 16");
             Console.WriteLine("17: Problem 17");
             Console.WriteLine("18: Problem 18");
+            Console.WriteLine("19: Problem 19");
             Console.Write("Enter your choice: ");
             
             string choice = Console.ReadLine();
@@ -85,6 +86,9 @@ namespace AllProblems
                     break;
                 case "18":
                     Problem18.Solve();
+                    break;
+                case "19":
+                    Problem19.Solve();
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");
