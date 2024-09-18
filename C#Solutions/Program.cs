@@ -8,27 +8,28 @@ namespace AllProblems
         static void Main(string[] args)
         {
             Console.WriteLine("Select a problem to solve:");
-            Console.WriteLine("1: Problem 1");
-            Console.WriteLine("2: Problem 2");
-            Console.WriteLine("3: Problem 3");
-            Console.WriteLine("4: Problem 4");
-            Console.WriteLine("5: Problem 5");
-            Console.WriteLine("6: Problem 6");
-            Console.WriteLine("7: Problem 7");
-            Console.WriteLine("8: Problem 8");
-            Console.WriteLine("9: Problem 9");
-            Console.WriteLine("10: Problem 10");
-            Console.WriteLine("11: Problem 11");
-            Console.WriteLine("12: Problem 12");
-            Console.WriteLine("13: Problem 13");
-            Console.WriteLine("14: Problem 14");
-            Console.WriteLine("15: Problem 15");
-            Console.WriteLine("16: Problem 16");
-            Console.WriteLine("17: Problem 17");
-            Console.WriteLine("18: Problem 18");
-            Console.WriteLine("19: Problem 19");
-            Console.WriteLine("20: Problem 20");
-            Console.WriteLine("21: Problem 21");
+            Console.WriteLine("1: Two Sum");
+            Console.WriteLine("2: Add two numbers");
+            Console.WriteLine("3: Longest substring without reapeting numbers");
+            Console.WriteLine("4: Medians of two sorted array");
+            Console.WriteLine("5: Longest Pelindromic substring");
+            Console.WriteLine("6: Zigzag Conversion");
+            Console.WriteLine("7: Reverse Integer");
+            Console.WriteLine("8: String to Integer");
+            Console.WriteLine("9: Pelindrome Number");
+            Console.WriteLine("10: Regular Expression matching");
+            Console.WriteLine("11: Container with most water");
+            Console.WriteLine("12: Integer to Roman");
+            Console.WriteLine("13: Roman to Integer");
+            Console.WriteLine("14: Longest Common prefix");
+            Console.WriteLine("15: 3 Sum");
+            Console.WriteLine("16: 3 Sum Closets");
+            Console.WriteLine("17: Letter combination of a phone number");
+            Console.WriteLine("18: 4Sum");
+            Console.WriteLine("19: Remove Nth Node from the end of list");
+            Console.WriteLine("20: Valid Parenthesis");
+            Console.WriteLine("21: Marge two sorted list");
+            Console.WriteLine("22: Generate Parenthesis");
             Console.Write("Enter your choice: ");
             
             string choice = Console.ReadLine();
@@ -97,6 +98,9 @@ namespace AllProblems
                     break;
                 case "21":
                     Problem21.Solve();
+                    break;
+                case "22":
+                    Problem22.Solve();
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");

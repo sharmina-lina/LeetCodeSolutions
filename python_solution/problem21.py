@@ -37,7 +37,7 @@ class Problem21:
         
         
 
-        return dummy.next;
+        return dummy.next
         
     
     def CreateLinkedList(self, nums: list[int])->ListNode:
@@ -81,7 +81,7 @@ def main():
     list1 = solution_prob21.CreateLinkedList(list1_num)
     list2 = solution_prob21.CreateLinkedList(list2_num)
    
-    solution_prob21.printList('List1:',list1)
+    solution_prob21.printList(list1)
     solution_prob21.printList(list2)
     
     
