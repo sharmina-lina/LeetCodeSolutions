@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "npf0s37Bjgw=",
+  "dgSpecHash": "9Kt7kl2bOEw=",
   "success": true,
   "projectFilePath": "/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/C#Solutions.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sharminalina/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

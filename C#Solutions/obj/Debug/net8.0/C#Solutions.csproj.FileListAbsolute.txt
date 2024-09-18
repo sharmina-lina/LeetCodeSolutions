@@ -13,3 +13,6 @@
 /Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.genruntimeconfig.cache
 /Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/ref/C#Solutions.dll
 /Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.sourcelink.json
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Solutions.csproj.AssemblyReference.cache
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/sharminalina/Desktop/LeetCodeSolutions/C#Solutions/obj/Debug/net8.0/C#Soluti.62406918.Up2Date

@@ -24,11 +24,7 @@ class Problem22:
             
         
         
-        
     
-
-        
-
 def main():
     # Problem 22: Give a number to generate the valid possible parenthesis
     n = int(input("Enter a number to generate the valid parenthesis: "))
