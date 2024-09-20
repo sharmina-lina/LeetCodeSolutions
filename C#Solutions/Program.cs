@@ -31,6 +31,7 @@ namespace AllProblems
             Console.WriteLine("21: Marge two sorted list");
             Console.WriteLine("22: Generate Parenthesis");
             Console.WriteLine("23: Marge K sorted List");
+            Console.WriteLine("24: Swape nodes in pairs");
             Console.Write("Enter your choice: ");
             
             string choice = Console.ReadLine();
@@ -106,6 +107,9 @@ namespace AllProblems
                     break;
                 case "23":
                     Problem23.Solve();
+                    break;
+                case "24":
+                    Problem24.Solve();
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");
