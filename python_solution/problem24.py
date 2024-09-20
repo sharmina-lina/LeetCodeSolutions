@@ -58,7 +58,7 @@ class Problem24:
 
 
 def main():
-    print("Problem No. 21 : Marge two linked list and then sort them")
+    print("Problem No. 24 : Swap node in pairs")
     
     # Input List Node1
     list1_input = input("Enter the list1 of integers (comma-separated): ")

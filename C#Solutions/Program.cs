@@ -32,6 +32,7 @@ namespace AllProblems
             Console.WriteLine("22: Generate Parenthesis");
             Console.WriteLine("23: Marge K sorted List");
             Console.WriteLine("24: Swape nodes in pairs");
+            Console.WriteLine("25: Reverse Node in K group");
             Console.Write("Enter your choice: ");
             
             string choice = Console.ReadLine();
@@ -110,6 +111,9 @@ namespace AllProblems
                     break;
                 case "24":
                     Problem24.Solve();
+                    break;
+                case "25":
+                    Problem25.Solve();
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");
