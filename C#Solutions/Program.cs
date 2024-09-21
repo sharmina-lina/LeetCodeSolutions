@@ -33,6 +33,8 @@ namespace AllProblems
             Console.WriteLine("23: Marge K sorted List");
             Console.WriteLine("24: Swape nodes in pairs");
             Console.WriteLine("25: Reverse Node in K group");
+            Console.WriteLine("26: Remove duplicate from sorted array");
+            Console.WriteLine("27: Remove all occurance of a given value");
             Console.Write("Enter your choice: ");
             
             string choice = Console.ReadLine();
@@ -114,6 +116,12 @@ namespace AllProblems
                     break;
                 case "25":
                     Problem25.Solve();
+                    break;
+                case "26":
+                    Problem26.Solve();
+                    break;
+                case "27":
+                    Problem27.Solve();
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");
