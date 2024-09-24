@@ -35,6 +35,7 @@ namespace AllProblems
             Console.WriteLine("25: Reverse Node in K group");
             Console.WriteLine("26: Remove duplicate from sorted array");
             Console.WriteLine("27: Remove all occurance of a given value");
+            Console.WriteLine("28: Find the index of first occurance in a string");
             Console.Write("Enter your choice: ");
             
             string choice = Console.ReadLine();
@@ -122,6 +123,9 @@ namespace AllProblems
                     break;
                 case "27":
                     Problem27.Solve();
+                    break;
+                case "28":
+                    Problem28.Solve();
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");
